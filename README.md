@@ -45,7 +45,7 @@ local itsPredzop = {
     currentlyLearning = { "Python", "JavaScript", "HTML5", "CSS3" },
     backendAndDatabases = { "Firebase", "Supabase", "Appwrite", "SQLite" },
     creativeAndMedia = { "Figma", "Adobe Photoshop", "DaVinci Resolve" },
-    codeEditors = { "VS Code", "Sublime Text" },
+    codeEditors = { "VS Code", "Sublime Text", "Antigravity" },
     mindset = "Tomorrow is never certain."
 }
 ```
